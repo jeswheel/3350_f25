@@ -19,6 +19,8 @@ PREREQ: MATH 1160 or MATH 1170.
 
 1. [Introduction](01/index.html)
 
+<!--
+
 2. [Estimating trend and autocovariance](02/index.html)
 
 3. [Stationarity, white noise, and some basic time series models](03/index.html)
@@ -53,6 +55,8 @@ PREREQ: MATH 1160 or MATH 1170.
 
 18. [A case study of ebola: Model criticism and forecasting](18/index.html)
 
+-->
+
 <!--
 
 There are further POMP case studies, in a similar style, on [Ebola modeling](https://kingaa.github.io/sbied/ebola/index.html), [measles transmission](https://kingaa.github.io/sbied/measles/index.html), and [dynamic variation in the rate of human sexual contacts](https://kingaa.github.io/sbied/contacts/index.html).
@@ -65,8 +69,7 @@ There are further POMP case studies, in a similar style, on [Ebola modeling](htt
 
 Please read the [grading rubric](rubric_homework.html) before submitting homework.
 
-* [Homework 0](hw00/hw00.html). Setting up your computational environment. Nothing to submit.
-
+<!--- 
 
 * [Homework 1](hw01/hw01.html), due Sun Jan 21, 11:59pm. 
 [Solution](hw01/sol01.html).
@@ -113,6 +116,8 @@ Please read the [grading rubric](rubric_homework.html) before submitting homewor
 
 * [Participation 8](participation/participation8.html), due Sun Apr 14, 11:59pm.
 
+-->
+
 <!--
 
 * There is no assigned homework for the last two weeks of the semester. You should work on your final project. The remaining lectures contain material that will be useful for your final projects.
@@ -120,7 +125,7 @@ Please read the [grading rubric](rubric_homework.html) before submitting homewor
 -->
 
 
-
+<!---
 -------------------
 
 ## Midterm project
@@ -135,8 +140,9 @@ Please read the [grading rubric](rubric_homework.html) before submitting homewor
 
 
 -------------
+--->
 
-## Final project
+## Final Exam
 
 
 * [Information](final_project/final_project_info.html)

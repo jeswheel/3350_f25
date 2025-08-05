@@ -1,6 +1,6 @@
 ---
-title: "Syllabus for DATASCI/STATS 531 (Winter 2024) <br><it>Modeling and Analysis of Time Series Data</it>"
-author: "Instructor: Edward L. Ionides"
+title: "Syllabus for Math 3350 (Fall 2025) <br><it>Statistical Methods</it>"
+author: "Instructor: Jesse Wheeler"
 output:
   html_document:
     toc: no
@@ -10,7 +10,7 @@ output:
 
 Course components will include:
 
-* classes Mon/Wed, 10-11:30 a.m. in 1360 East Hall
+* classes Mon/Wed/Fri, 9:00 - 9:50 a.m. in PS 324
 * homework
 * [Piazza discussion forum](https://piazza.com/umich/winter2024/datascistats531)
 * group midterm project, with individual peer review
