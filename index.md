@@ -13,6 +13,8 @@ output:
 A calculus-based introduction to statistical procedures, including simple regression, basic experimental design, and non-parametric methods. 
 PREREQ: MATH 1160 or MATH 1170.
 
+- [Course Syllabus](syllabus.pdf)
+
 --------------
 
 ## Class notes and recorded lectures

@@ -28,4 +28,4 @@
 local
 cache
 figure
-
+*.synctex.gz
