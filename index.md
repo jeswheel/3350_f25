@@ -1,5 +1,5 @@
 ---
-title: "Math 3350 (Fall 2025) <br>'Statistical Methods'"
+title: "Math 3350 (Fall 2025) 'Statistical Methods'"
 author: "Instructor: Jesse Wheeler"
 output:
   html_document:
